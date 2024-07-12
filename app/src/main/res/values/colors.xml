@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryquiz">#003366</color>
+    <color name="nxtbtn">#3297ca</color>
+    <color name="green">#66cc99</color>
+    <color name="red">#ff6666</color>
+    <color name="background_color">#FAFAFA</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="button_color">#6200EE</color>
+    <color name="secondary">#3297ca</color>
+</resources>
